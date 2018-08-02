@@ -1,1 +1,1 @@
-out_frame.csv
+ou_frame.fits
